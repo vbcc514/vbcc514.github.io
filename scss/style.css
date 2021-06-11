@@ -133,9 +133,7 @@ img {
 a {
   color: inherit; }
 
-a,
-a:hover,
-a:focus {
+a {
   text-decoration: none; }
 
 a,
